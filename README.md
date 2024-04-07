@@ -1,5 +1,6 @@
 # **LESH TECHNOLOGIES PRESENTS:**
 # Nale - Realtime Chat App version 2.0
+<img src="Screenshot(14).png">
 
 Nale is a simple and intuitive real-time chat application that leverages Firebase for seamless communication. Whether you want to chat with friends, colleagues, or connect with new people, Nale offers a reliable platform with minimal setup required.
 
