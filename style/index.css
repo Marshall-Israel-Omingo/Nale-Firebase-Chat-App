@@ -7,7 +7,7 @@ body{
   background-attachment: fixed;
     font-family: Bungee Outline;
     font-weight: 900;
-  color: white;
+  color: rgb(197, 0, 0);
     overflow: hidden;
     animation: blur 0.5s ease-out;
   
